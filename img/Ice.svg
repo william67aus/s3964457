@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#9DDCF2;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#00AEEF;stroke-width:8;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#9DDCF2;stroke-width:8;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#00AEEF;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<circle class="st0" cx="252.59" cy="250" r="121.43"/>
+	<circle class="st1" cx="252.59" cy="250" r="28.33"/>
+	<line class="st2" x1="252.59" y1="179.03" x2="252.59" y2="11.77"/>
+	<line class="st2" x1="252.59" y1="488.24" x2="252.59" y2="320.98"/>
+	<line class="st1" x1="78.73" y1="415.6" x2="197" y2="297.33"/>
+	<line class="st1" x1="303.76" y1="302.42" x2="422.04" y2="420.69"/>
+	<line class="st1" x1="326.86" y1="250.35" x2="403.34" y2="250.35"/>
+	<line class="st1" x1="99.63" y1="250" x2="176.11" y2="250"/>
+	<path class="st3" d="M304.62,197.49c0,0,117.51-117.72,118.54-116.7c4.76,4.68,44.08,49,53.9,88.64"/>
+	<path class="st3" d="M195.38,298.11c0,0-117.51,117.72-118.54,116.7c-4.76-4.68-44.08-49-53.9-88.64"/>
+	<path class="st3" d="M304.62,303.2c0,0,117.51,117.72,118.54,116.7c4.76-4.68,44.08-49,53.9-88.64"/>
+	<path class="st3" d="M200.28,197.49c0,0-117.51-117.72-118.54-116.7c-4.76,4.68-44.08,49-53.9,88.64"/>
+	<path class="st2" d="M148.46,31.39c35.08-16.6,68.36-23.62,104.12-23.48"/>
+	<path class="st2" d="M354.55,31.39c-35.08-16.6-68.36-23.62-104.12-23.48"/>
+	<path class="st2" d="M150.19,468.61c35.08,16.6,68.36,23.62,104.12,23.48"/>
+	<path class="st2" d="M356.69,468.61c-35.08,16.6-68.36,23.62-104.12,23.48"/>
+</g>
+</svg>
